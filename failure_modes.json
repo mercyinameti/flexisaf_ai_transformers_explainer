@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ambiguous Reference",
+    "example": "The trophy doesn't fit because it is too large. What is too large?",
+    "why": "Pronouns can refer to multiple nouns - hard to disambiguate"
+  },
+  {
+    "name": "Out of Knowledge",
+    "example": "What happened in the 2035 Olympics?",
+    "why": "Training data has a cutoff - model will hallucinate"
+  },
+  {
+    "name": "Logic vs Reality",
+    "example": "If all birds fly and penguins are birds, can they fly?",
+    "why": "Real-world knowledge contradicts logical premise"
+  },
+  {
+    "name": "Math Errors",
+    "example": "What is 999,999 times 999,999?",
+    "why": "Transformers are pattern-matchers, not calculators"
+  }
+]

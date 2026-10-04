@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Hello world",
+    "tokens": [
+      "hello",
+      "world"
+    ],
+    "token_count": 2,
+    "character_count": 11
+  },
+  {
+    "text": "The quick brown fox jumps",
+    "tokens": [
+      "the",
+      "quick",
+      "brown",
+      "fox",
+      "jumps"
+    ],
+    "token_count": 5,
+    "character_count": 25
+  },
+  {
+    "text": "I don't understand transformers",
+    "tokens": [
+      "i",
+      "do",
+      "n't",
+      "understand",
+      "transformers"
+    ],
+    "token_count": 5,
+    "character_count": 31
+  },
+  {
+    "text": "Running machine learning models",
+    "tokens": [
+      "running",
+      "machine",
+      "learning",
+      "models"
+    ],
+    "token_count": 4,
+    "character_count": 31
+  },
+  {
+    "text": "Artificial intelligence is transforming technology",
+    "tokens": [
+      "artificial",
+      "intelligence",
+      "is",
+      "transforming",
+      "technology"
+    ],
+    "token_count": 5,
+    "character_count": 50
+  }
+]

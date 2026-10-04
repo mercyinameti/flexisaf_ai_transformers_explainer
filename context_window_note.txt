@@ -1,0 +1,16 @@
+CONTEXT WINDOW: Maximum tokens a model can see at once
+
+Examples:
+  BERT: 512 tokens (approximately 400 words)
+  GPT-4: 128,000 tokens (approximately 100,000 words)
+  Claude 3: 200,000 tokens (approximately 150,000 words)
+
+WHY IT MATTERS:
+  1. Cannot process text longer than limit
+  2. Forgets early parts of long conversations
+  3. More tokens means slower inference speed
+  
+REAL EXAMPLE:
+  - Tell model: Always be professional
+  - 400 tokens later: Tell me something funny
+  - If window is 512, the be professional rule might be forgotten

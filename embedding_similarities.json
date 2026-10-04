@@ -1,0 +1,52 @@
+[
+  {
+    "text1": "The cat sat on the mat",
+    "text2": "A feline rested on the rug",
+    "similarity": 0.997748672431682
+  },
+  {
+    "text1": "The cat sat on the mat",
+    "text2": "The dog ran in the park",
+    "similarity": 0.25581395348837205
+  },
+  {
+    "text1": "The cat sat on the mat",
+    "text2": "A canine sprinted through the ",
+    "similarity": 0.20829502081464188
+  },
+  {
+    "text1": "The cat sat on the mat",
+    "text2": "The weather is sunny today",
+    "similarity": 0.26836170460988895
+  },
+  {
+    "text1": "A feline rested on the rug",
+    "text2": "The dog ran in the park",
+    "similarity": 0.2721132742995497
+  },
+  {
+    "text1": "A feline rested on the rug",
+    "text2": "A canine sprinted through the ",
+    "similarity": 0.2280452047503249
+  },
+  {
+    "text1": "A feline rested on the rug",
+    "text2": "The weather is sunny today",
+    "similarity": 0.27911694506082074
+  },
+  {
+    "text1": "The dog ran in the park",
+    "text2": "A canine sprinted through the ",
+    "similarity": 0.9976235207438111
+  },
+  {
+    "text1": "The dog ran in the park",
+    "text2": "The weather is sunny today",
+    "similarity": 0.26836170460988895
+  },
+  {
+    "text1": "A canine sprinted through the ",
+    "text2": "The weather is sunny today",
+    "similarity": 0.2635560849172689
+  }
+]

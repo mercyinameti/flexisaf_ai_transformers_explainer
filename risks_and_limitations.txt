@@ -1,0 +1,16 @@
+KEY LIMITATIONS OF TRANSFORMERS:
+
+1. HALLUCINATIONS: Model generates confident but false information
+2. CONTEXT LIMIT: Cannot process documents longer than context window
+3. BIAS: Learns biases from training data
+4. NO REASONING: Pattern matching, not logical deduction
+5. SECURITY: Vulnerable to prompt injection attacks
+6. COST: Large models are computationally expensive
+
+RESPONSIBLE USE:
+  - Verify facts independently
+  - Use for drafts, not ground truth
+  - Monitor outputs for bias
+  - Implement human review for important decisions
+  - Protect user data and privacy
+  - Be transparent about limitations

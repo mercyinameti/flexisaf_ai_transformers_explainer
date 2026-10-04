@@ -1,0 +1,26 @@
+{
+  "Aspect": [
+    "Time",
+    "Data",
+    "Cost",
+    "Flexibility",
+    "Knowledge",
+    "When to use"
+  ],
+  "Prompting": [
+    "Instant",
+    "None",
+    "Free",
+    "Flexible",
+    "Learned patterns",
+    "Quick direction"
+  ],
+  "Fine-Tuning": [
+    "Days",
+    "Hundreds",
+    "High",
+    "Fixed",
+    "Custom data",
+    "New behavior"
+  ]
+}
