@@ -306,7 +306,7 @@ python transformer_demo.py  # Run 2
 
 ## Author & Attribution
 
-**Created by:** Mercy Ina Asuquo  
+**Created by:** Mercy Inameti 
 **Program:** FlexiSaf AI Engineering Curriculum (Weeks I2: Deep Learning & Transformer Foundations)  
  
 
